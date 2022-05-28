@@ -23,7 +23,7 @@ const About = () => {
             constantly learning new tasks with more{" "}
             <span className="focus">Focus</span>. Besides, I will do freelancing
             and run the family with my income, I will go for Hajj with my father
-            and mother, Insha Allah. I will have a service Related Worldwide
+            and mother, Insha Allah. I will have a service Related Worldwide side
             Company Insha Allah{" "}
           </p>
         </div>
