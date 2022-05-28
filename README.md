@@ -1,6 +1,3 @@
-# Getting Started with Dr. William F Turner
-
-This project was bootstrapped with [Dr. William F Turner](https://dr-william-f-turner.web.app).
 
 - এখানে একটা navbar আছে navbar এ ৫ টা route আছে Home, Blog, About, Login, Sign-Up
 - Home Route এ একটা Banner আছে Services Section এ ৬ টা Services আছে Features আছে, Experiences আছে এবং একটা Footer আছে
