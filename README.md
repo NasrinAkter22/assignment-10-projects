@@ -1,4 +1,4 @@
-
+https://assignment-10-projects.web.app/ 
 - এখানে একটা navbar আছে navbar এ ৫ টা route আছে Home, Blog, About, Login, Sign-Up
 - Home Route এ একটা Banner আছে Services Section এ ৬ টা Services আছে Features আছে, Experiences আছে এবং একটা Footer আছে
 - Home page এ Service এর Button এ click করলে checkout page এ নিয়ে যাবে সেটা protected route , এবং সেই route এ একটা ডাক্তারের Prescription আছে।
