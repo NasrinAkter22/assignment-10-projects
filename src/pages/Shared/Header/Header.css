@@ -1,0 +1,16 @@
+
+.btn-style a{
+  text-decoration: none;
+  margin-left: 20px;
+  color: black;
+}
+.btn-style button{
+  border: none;
+  border-radius:8px ;
+  padding: 6px 15px;
+  color: #FFFFFF;
+  background-color:#e74c3c;
+}
+.navbar{
+  font-weight: 600;
+}

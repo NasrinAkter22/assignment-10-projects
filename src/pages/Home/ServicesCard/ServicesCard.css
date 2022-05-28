@@ -1,0 +1,13 @@
+.card-style{
+  border-radius: 10px;
+}
+
+.card-style button{
+  border: none;
+  border-radius:4px;
+  padding: 10px 12px;
+  color: #ffffff;
+  text-transform: uppercase;
+  background-color: #E74C3C;
+}
+

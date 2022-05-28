@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Tooth Extraction",
+    "details": "A tooth extraction is the permanent removal of a tooth from its socket and may be done manually using forceps or surgically. Extraction is recommended when",
+    "img": "https://images.pexels.com/photos/6627569/pexels-photo-6627569.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "price": 225
+  },
+  {
+    "id": 2,
+    "name": "Tooth Fillings",
+    "details": "A filling is a way to restore a tooth damaged by decay back to its normal function and shape. Learn more about what a filling is and when you may need one ",
+    "img": "https://viewpointdentistry.com/wp-content/uploads/2020/01/dental-fillings.jpg",
+    "price": 250
+  },
+  {
+    "id": 3,
+    "name": "Tooth Cleaning",
+    "details": "A teeth cleaning can last between 30 minutes and one hour. During this time, you will lie back in a comfortable dental chair while we examine your teeth",
+    "img": "https://www.stgeorgesmiles.com/wp-content/uploads/2017/12/shutterstock_100725427.jpg",
+    "price": 100
+  },
+  {
+    "id": 4,
+    "name": "Tooth Pliers",
+    "details": "A man who was scared of going to the dentist pulled out his own infected tooth with pliers after enduring weeks of pain.",
+    "img": "https://wallpaperaccess.com/full/2653644.jpg",
+    "price": 150
+  },
+  {
+    "id": 5,
+    "name": "Fever & Flu",
+    "price": 14.39,
+    "details": "Most people who get flu will recover in a few days to less than two weeks, but some people will develop complications (such as pneumonia) as a result of flu, some of which can be life-threatening and result in death.",
+    "img": "https://i.ibb.co/YWzKpQf/services4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dental Service",
+    "price": 15.25,
+    "details": "Dentistry usually encompasses practices related to the oral cavity. According to the World Health Organization, oral diseases are major public health problems due to their high incidence and prevalence across the globe, with the disadvantaged affected more than other socio-economic groups",
+    "img": "https://i.ibb.co/XLSjs1w/services5.jpg"
+  }
+]

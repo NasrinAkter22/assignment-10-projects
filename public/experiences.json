@@ -1,0 +1,20 @@
+[
+ {
+    "id": 1,
+    "name": "Cardiologist",
+    "details": "A cardiologist is a doctor that deals with the cardiovascular system. This means he or she treats any abnormality in our blood vessels and heart. This can include heart disease or condition which requires diagnosis and treatment.",
+    "img": "https://i.ibb.co/TYqsqhB/experiences1.png"
+  },
+  {
+    "id": 2,
+    "name": "Audiologist",
+    "details": "As the name suggests, an audiologist treats and evaluates anything and everything to do with audio or hearing abilities of a person. Since hearing is a very important sense, it requires an expert to treat the same.",
+    "img": "https://i.ibb.co/2FCdyjc/healthinsurance303.png"
+  },
+  {
+    "id": 3,
+    "name": "Dentist",
+    "details": "According to American Dental Association, a dentist is a doctor of oral health. Oral health includes teeth, tongue and gums. A dentist is known to diagnose and treat issues of these three areas.",
+    "img": "https://i.ibb.co/N65xk7T/experiences3.png"
+  }
+]
